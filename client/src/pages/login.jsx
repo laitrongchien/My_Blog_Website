@@ -28,7 +28,7 @@ const Login = () => {
 
         <small className="row my-2 text-primary" style={{ cursor: "pointer" }}>
           <span className="col-6">
-            <Link to="/forgot_password">Forgot password?</Link>
+            <Link to="/forgot_password">Forgot password ?</Link>
           </span>
 
           {/* <span className="col-6 text-end" onClick={() => setSms(!sms)}>
